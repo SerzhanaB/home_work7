@@ -1,4 +1,4 @@
-public class Plants {
+public abstract class Plants {
 
     public int lifespan;
     protected String area;

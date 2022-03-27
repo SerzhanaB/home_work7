@@ -18,7 +18,7 @@ public class Main {
         tree1.setType(a);
         System.out.println("Вывод данных о дереве");
 
-       
+
 tree1.setArea("Asia");
         tree1.setLifespan(6);
         tree1.PrintInfo(tree1);
